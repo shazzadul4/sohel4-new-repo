@@ -11,6 +11,8 @@ h2 {
     font-size: 42px;
 }
 
+}
+
 .orange-color {
     color: orange;
 }
@@ -18,6 +20,7 @@ h2 {
 .flexible-container {
     display: flex;
     margin-bottom: 150px;
+}
 }
 
 .half-width {
@@ -51,17 +54,4 @@ h2 {
     margin-right: 5%;
     padding: 20px;
     box-shadow: 10px 10px 35px gray;
-    border-right: 7px blue;
-}
-
-#Full-Stack-Web-Developer {
-    border-left: 7px solid tomato;
-}
-
-#baby-web {
-    border-left: 7px solid blue;
-}
-
-footer p {
-    text-align: center
 }
